@@ -1,0 +1,6 @@
+[package]
+name = "chronal_calibration"
+version = "0.1.0"
+authors = ["kw <konrad.waniek@gmail.com>"]
+
+[dependencies]
