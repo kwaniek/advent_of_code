@@ -1,0 +1,6 @@
+[package]
+name = "chronal_calibration_pt2"
+version = "0.1.0"
+authors = ["Konrad Waniek <konrad.waniek@allegro.pl>"]
+
+[dependencies]
